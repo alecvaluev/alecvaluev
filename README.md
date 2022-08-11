@@ -3,7 +3,7 @@
 -->
 - 👋 Hi, I'm Aleksandr Valuev, Software Developer Graduate @ Seneca College
 - :eyes: I'm interested in playing music:musical_keyboard:, learning languages ```언어```, and swimming :swimmer:
-- 🌱 I’m currently learning Android development and interested in machine learning
+- 🌱 I’m currently learning Android development and a bit of machine learning
 - :muscle: My skills: 
 <p align="left">
   
