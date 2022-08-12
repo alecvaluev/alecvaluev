@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Tailwind-ADD8E6?style=flat-square&logo=Tailwind&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-4682B4?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-024b30?style=flat-square&logo=Django&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=Java&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
