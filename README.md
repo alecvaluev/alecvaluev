@@ -24,4 +24,4 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 </p>
 
-- 📫 How to reach me: alexvaluev1220@gmail.com
+- 📫 How to reach me: alexvaluev1220@gmail.com:envelope_with_arrow:
