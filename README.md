@@ -4,7 +4,7 @@
 - 👋 Hi, I'm Aleksandr Valuev, Software Developer Graduate @ Seneca College
 - 🌱 I’m currently learning Android development and a bit of machine learning
 - :eyes: I'm interested in playing music:musical_keyboard:, learning languages ```언어```, and swimming :swimmer:
-- :muscle: My skills: 
+- :muscle: My skills: :hammer_and_wrench:
 <p align="left">
   
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
